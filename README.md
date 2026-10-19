@@ -2,6 +2,13 @@ Project Overview
 
 This project is an Interactive Sales Analysis Dashboard created in Microsoft Excel for Ferns & Petals (FNP) — a gifting company specializing in products for occasions like Diwali, Raksha Bandhan, Holi, Birthdays, Anniversaries, and Valentine’s Day.
 
+
+
+![Sales  Analysis Dashboard](Snapshot_of_Sales_Analysi.png)
+
+
+
+
 The goal of this project was to analyze sales performance, customer behavior, product trends, and delivery insights to support data-driven business decisions.
 
 🚀 Key Business Objectives
